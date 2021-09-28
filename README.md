@@ -14,4 +14,5 @@
 
 
 [![Mickael](https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelCe)](https://github.com/MickaelCe/github-readme-stats)
-[![Mickael](https://github-readme-stats.vercel.app/api/wakatime?username=MickaelCe)](https://github.com/MickaelCe/github-readme-stats)
+[![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickaelCe&theme=synthwave)](https://github.com/MickaelCe/github-readme-stats)
+
