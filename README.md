@@ -13,6 +13,5 @@
 - 📝[Portfolio](https://mickaelc.promo-66.codeur.online/mickaelc/)
 
 
-[![Mickael](https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelCe&theme=synthwave)](https://github.com/MickaelCe/github-readme-stats)
-[![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickaelCe&theme=synthwave)](https://github.com/MickaelCe/github-readme-stats)
-
+[![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MickaelCe&theme=synthwave)](https://github.com/MickaelCe/github-readme-stats)</br>
+[![Mickael](https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelCe&theme=synthwave&layout=compact)](https://github.com/MickaelCe/github-readme-stats)
