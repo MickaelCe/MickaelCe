@@ -10,7 +10,7 @@
 </div>
 
 
-<div>
+<div style="display: flex;">
 
 <div align="left">
   
