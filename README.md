@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Symfony and REACT.
 - 👯 Part of Developer Community.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mickaelcecen/"><img align="center" alt="Mickael" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/mickaelcecen/" target="blank_"><img align="center" alt="Mickael" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 - 📝[Portfolio]
 
 <div align="center">
