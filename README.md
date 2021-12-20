@@ -10,9 +10,9 @@
 </div>
 
 
-<div style="display: flex;">
+<div>
 
-<div style="float:left">
+<div>
   
   **About me:**
 
@@ -23,7 +23,7 @@
   
 </div>
   
-<div style="float:right">
+<div>
   
 [![Mickael](https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelCe&theme=synthwave&layout=compact)](https://github.com/MickaelCe/github-readme-stats)
   
