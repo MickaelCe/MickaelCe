@@ -18,9 +18,7 @@
 
 - 🌱 I’m currently learning React.
 - 👯 Part of Developer Community.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mickaelcecen/"><img align="center" alt="Mickael" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-- 📝[Portfolio]
-  
+
 </div>
   
 <div>
